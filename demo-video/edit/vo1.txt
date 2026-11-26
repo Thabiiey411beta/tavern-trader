@@ -1,0 +1,1 @@
+Tavern Trader. A paper trading agent whose every decision lives on chain. Paper only. No real money.

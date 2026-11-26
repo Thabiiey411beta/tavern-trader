@@ -1,0 +1,1 @@
+Paper trading has a trust problem. Anyone can claim a win after the fact. Tavern Trader fixes that by writing every decision on chain, where the risk rules can't be bypassed.

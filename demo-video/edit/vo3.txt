@@ -1,0 +1,1 @@
+The agent polls real prices and scores four symbols. Only a score of sixty or more can open, and the paper-only banner is always on screen. SOL is blocked right now — its price feed errored, so the agent fails closed instead of guessing.

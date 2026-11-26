@@ -1,0 +1,1 @@
+The risk rules don't live in the agent. They live on chain, in the realm: minimum score sixty, stop loss and take profit required, fifty dollars per trade, and a twenty dollar loss cap that halts everything. Only the owner can write.

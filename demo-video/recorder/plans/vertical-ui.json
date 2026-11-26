@@ -1,0 +1,1 @@
+{"url": "http://127.0.0.1:8791/", "actions": [{"type":"wait","ms":6000},{"type":"scrollBy","dy":500,"durationMs":5000},{"type":"wait","ms":1200},{"type":"scrollBy","dy":500,"durationMs":5000},{"type":"wait","ms":1200},{"type":"scrollBy","dy":500,"durationMs":5000},{"type":"wait","ms":1500}]}

@@ -1,0 +1,1 @@
+{"url": "file:///home/hatch/workspace/gnome-tavern/realm/tavern.gno", "actions": [{"type":"wait","ms":3000},{"type":"scrollBy","dy":900,"durationMs":5000},{"type":"wait","ms":1000},{"type":"scrollBy","dy":900,"durationMs":5000},{"type":"wait","ms":1000},{"type":"scrollBy","dy":900,"durationMs":5000},{"type":"wait","ms":1000},{"type":"scrollTo","y":0,"durationMs":3000}]}

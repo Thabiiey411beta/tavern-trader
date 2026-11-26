@@ -1,0 +1,1 @@
+And it's all checkable on the explorer: the deploy, the owner claim, the score, and the open position — each one a real transaction on the Onyx testnet.

@@ -1,0 +1,1 @@
+This is the realm's Render page, read live from the Gno testnet. One open paper position, one score, and a decision log — all on chain, all public.

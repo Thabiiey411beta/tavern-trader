@@ -1,0 +1,1 @@
+Watch it work. I ask the agent for a fresh poll. It scores four symbols from live prices and writes each score to the realm on the Gno testnet. No score, no position, without the chain seeing it.

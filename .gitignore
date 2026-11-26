@@ -1,0 +1,31 @@
+.env
+node_modules/
+dist/
+*.log
+data/state.json
+data/journal.jsonl
+.DS_Store
+# Never commit keys, mnemonics, or seed phrases. The testnet-only gnokey
+# key lives in ~/.config/gno (the gnokey keybase), not in this repo.
+*.key
+*.pem
+*mnemonic*
+*seed*
+# Runtime / generated data — never commit
+agent/data/
+demo-video/recorder/chrome-linux64
+demo-video/recorder/chrome-linux64.zip
+demo-video/recorder/chrome-profile
+demo-video/recorder/clips/
+demo-video/frames/
+demo-video/explorer-shots/
+demo-video/onchain-proof/
+demo-video/backtest-output.txt
+# Video edit intermediates — keep only the build script + voiceover scripts
+demo-video/edit/*
+!demo-video/edit/build-demo.sh
+!demo-video/edit/vo*.txt
+demo-video/edit-v2/*
+!demo-video/edit-v2/build-demo-v2.sh
+!demo-video/edit-v2/vo*.txt
+demo-video/explorer-shots-v2/

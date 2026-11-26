@@ -1,0 +1,1 @@
+A minute later the realm shows the new scores, and the explorer shows the transactions. The agent can't fake a score — it's on chain or it didn't happen.

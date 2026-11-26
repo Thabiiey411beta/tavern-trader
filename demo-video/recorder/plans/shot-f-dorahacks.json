@@ -1,0 +1,1 @@
+{"url": "https://dorahacks.io/hackathon/gnome-tavern", "actions": [{"type":"wait","ms":5000},{"type":"scrollBy","dy":800,"durationMs":4000},{"type":"wait","ms":1200},{"type":"scrollBy","dy":800,"durationMs":4000},{"type":"wait","ms":1000}]}
